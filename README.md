@@ -1,1 +1,1 @@
-json-visualizer-lac.vercel.app
+https://json-visualizer-lac.vercel.app/auth/register
